@@ -1,0 +1,1 @@
+Os atributos que podem se tornar Value Objects são nome, email e telefone
